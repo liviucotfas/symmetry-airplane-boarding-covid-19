@@ -7,8 +7,8 @@ All the simulations have been performed using the following settings:
 - luggage situation: S1 (described in our paper).
 
 > Suggestions: 
-    1. You can download the animations below in order to watch them at a higher resolution.
-    2. Click on the animations to view the associated video on YouTube.
+> 1. You can download the animations below in order to watch them at a higher resolution.
+> 2. Click on the animations to view the associated video on YouTube.
 
 ## BS1-Random-without-assigned-seats
 ### Distancing: 1.0m
