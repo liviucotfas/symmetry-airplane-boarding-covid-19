@@ -20,19 +20,19 @@ All the simulations have been performed using the following settings:
 #### Aisle distancing: 1.0m
 [![BS1-Random-without-assigned-seats](recordings/bs6-1m.gif)](https://www.youtube.com/watch?v=Y2aczqklfV0)
 
-**Aisle distancing: 2.0m**
-## BS2-Random-with-assigned-seats
-### Aisle distancing: 1.0m
-### Aisle distancing: 2.0m
-## BS3-Outside-in (WILMA)
-### Aisle distancing: 1.0m
-### Aisle distancing: 2.0m
-## BS4-Back-to-front-by-block
-### Aisle distancing: 1.0m
-### Aisle distancing: 2.0m
-## BS5-Back-to-front-by-row
-### Aisle distancing: 1.0m
-### Aisle distancing: 2.0m
-## BS6-Modified-reverse-pyramid-half-zone
-### Aisle distancing: 1.0m
-### Aisle distancing: 2.0m
+#### Aisle distancing: 2.0m
+### BS2-Random-with-assigned-seats
+#### Aisle distancing: 1.0m
+#### Aisle distancing: 2.0m
+### BS3-Outside-in (WILMA)
+#### Aisle distancing: 1.0m
+#### Aisle distancing: 2.0m
+### BS4-Back-to-front-by-block
+#### Aisle distancing: 1.0m
+#### Aisle distancing: 2.0m
+### BS5-Back-to-front-by-row
+#### Aisle distancing: 1.0m
+#### Aisle distancing: 2.0m
+### BS6-Modified-reverse-pyramid-half-zone
+#### Aisle distancing: 1.0m
+#### Aisle distancing: 2.0m
