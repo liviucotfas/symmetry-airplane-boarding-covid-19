@@ -6,7 +6,7 @@ submitted to the `Symmetry` journal.
 
 Please feel free to contact us at liviu.cotfas at ase .ro for the NetLogo source code. 
 
-# Boarding Scenarios
+## Boarding Scenarios
 
 All the simulations have been performed using the following settings:
 - occupancy level: 100% (120 passengers);
@@ -16,7 +16,7 @@ All the simulations have been performed using the following settings:
 > 1. You can download the animations below in order to watch them at a higher resolution.
 > 2. Click on the animations to view the associated video on YouTube.
 
-## BS1-Random-without-assigned-seats
+### BS1-Random-without-assigned-seats
 ### Aisle distancing: 1.0m
 [![BS1-Random-without-assigned-seats](recordings/bs6-1m.gif)](https://www.youtube.com/watch?v=Y2aczqklfV0)
 
