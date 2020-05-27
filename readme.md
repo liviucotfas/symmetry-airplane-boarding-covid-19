@@ -2,6 +2,8 @@ Recordings of the simulations presented in
 ### **"Evaluating Classical Airplane Boarding Methods Considering COVID-19 Flying Restrictions"** 
 submitted to the `Symmetry` journal. 
 
+
+
 Please feel free to contact us at liviu.cotfas at ase .ro for the NetLogo source code. 
 
 # Boarding Scenarios
