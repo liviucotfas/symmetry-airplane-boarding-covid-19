@@ -10,8 +10,8 @@ All the simulations have been performed using the following settings:
 
 ## BS1-Random-without-assigned-seats
 ### 1.0m
-![Baseline-GS1](recordings/Baseline-GS1.gif)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2aczqklfV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![BS1-Random-without-assigned-seats](https://img.youtube.com/vi/Y2aczqklfV0/0.jpg)](https://www.youtube.com/watch?v=Y2aczqklfV0)
+
 ### 2.0m
 ## BS2-Random-with-assigned-seats
 ### 1.0m
