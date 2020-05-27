@@ -10,7 +10,7 @@ All the simulations have been performed using the following settings:
 
 ## BS1-Random-without-assigned-seats
 ### 1.0m
-[![BS1-Random-without-assigned-seats](https://img.youtube.com/vi/Y2aczqklfV0/0.jpg)](https://www.youtube.com/watch?v=Y2aczqklfV0)
+[![BS1-Random-without-assigned-seats](recordings/bs6-1m.gif)](https://www.youtube.com/watch?v=Y2aczqklfV0)
 
 ### 2.0m
 ## BS2-Random-with-assigned-seats
