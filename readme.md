@@ -1,6 +1,6 @@
 Recordings of the simulations presented in 
 ### **"Evaluating Classical Airplane Boarding Methods Considering COVID-19 Flying Restrictions"** 
-submitted to the `Symmetry` journal. 
+published in the `Symmetry` journal: https://www.mdpi.com/2073-8994/12/7/1087
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
